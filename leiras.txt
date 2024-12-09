@@ -1,0 +1,4 @@
+Látványterv, rendszerterv, specifikáció is kell
+Határidő január 14-15.
+3 fős csoportokban kell megvalósítani a projektet, kellenek tesztelők és egy csapatvezető.
+Painthez hasonló pixelgrafikus program megírása kell.
